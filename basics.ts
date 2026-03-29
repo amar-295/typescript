@@ -2,4 +2,4 @@ function greet (name: string): string {
     return `hello ${name}`
 }
 
-console.log("Amarnath");
+console.log(greet("Amarnath"));
